@@ -7,7 +7,7 @@ DEPS = goldrush
 dep_goldrush = git https://github.com/basho/goldrush 0.1.9
 
 DEPS += emqttd emq_modules emq_dashboard emq_retainer emq_recon emq_reloader \
-        emq_auth_clientid emq_auth_username emq_auth_ldap emq_auth_http \
+        emq_auth_clientid emq_auth_username emq_auth_http \
         emq_sn emq_coap emq_stomp emq_plugin_template emq_web_hook \
         emq_lua_hook
 
