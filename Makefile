@@ -12,7 +12,7 @@ DEPS += emqttd emq_modules emq_dashboard emq_retainer emq_recon emq_reloader \
         emq_lua_hook
 
 # emq deps
-dep_emqttd        = git https://github.com/lukaskirner/emqx.git v2.3.9-authfix
+dep_emqttd        = git https://github.com/lukaskirner/emqx.git v2.3.9-authfix1
 dep_emq_modules   = git https://github.com/emqtt/emq-modules v2.3.9
 dep_emq_dashboard = git https://github.com/emqtt/emq-dashboard v2.3.9
 dep_emq_retainer  = git https://github.com/emqtt/emq-retainer v2.3.9
